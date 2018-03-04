@@ -1,0 +1,4 @@
+{"type":"version","version":1}
+{"type":"user","user":{"username":"cjohannsen","email":"cjohannsen@Matter.most.com","auth_service":"ldap","auth_data":"cjohannsen","teams":[{"name":"portugal-team","channels":[{"name":"testchannel"},{"name":"secondone"}]}]}}
+{"type":"user","user":{"username":"user01","email":"user01@Matter.most.com","auth_service":"ldap","auth_data":"user01","teams":[{"name":"portugal-team","channels":[{"name":"testchannel"},{"name":"secondone"}]}]}}
+{"type":"user","user":{"username":"user02","email":"user02@Matter.most.com","auth_service":"ldap","auth_data":"user02","teams":[{"name":"portugal-team","channels":[{"name":"testchannel"},{"name":"secondone"}]}]}}
