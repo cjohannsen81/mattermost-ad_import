@@ -4,4 +4,6 @@
 
 Just call the script (I used a sample Windows 2012 R2 domain controller). Please note that the script name is: import.ps1.
 
-https://github.com/cjohannsen81/mattermost-ad_import/blob/master/images/0_call_import.png
+![alt text](https://github.com/cjohannsen81/mattermost-ad_import/blob/master/images/0_call_import.png)
+
+![alt text](https://raw.githubusercontent.com/cjohannsen81/mattermost-ad_import/blob/master/images/0_call_import.png)
