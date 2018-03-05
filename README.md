@@ -1,6 +1,8 @@
 # Mattermost Active-Directory Import
 
-#### This Powershell script gets all AD Users based on the given AD group and converts them into a JSON file that can be used for the Mattermost bulk import tool: https://docs.mattermost.com/deployment/bulk-loading.html It allows to add the team and channels that the new user should be part of when logging in the first time.
+#### This Powershell script gets all AD Users based on the given AD group and converts them into a JSON file that can be used for the Mattermost bulk import tool: https://docs.mattermost.com/deployment/bulk-loading.html
+
+#### It allows to add the team and channels for the users. They will be part of these channels when logging in the first time.
 
 Please note that the Enterprise Edition is needed.
 
