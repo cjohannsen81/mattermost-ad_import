@@ -38,5 +38,4 @@ Please note that the Enterprise Edition is needed.
 #### In case you want to change of enhance the script, feel free to create a pull request.
 
 Author: Christian Johannsen
-
 Twitter: cjohannsen81
